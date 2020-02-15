@@ -1,0 +1,27 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pacheck/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Pedro Pacheco <pacheckdev@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/Pacheck/js-tdd/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
