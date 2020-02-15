@@ -15,9 +15,4 @@ module.exports = {
   },
   rules: {
   },
-  plugins: [
-    "react",
-    "jsx-ally",
-    "import"
-  ]
 };
